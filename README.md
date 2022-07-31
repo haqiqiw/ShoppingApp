@@ -1,6 +1,10 @@
 # Shopping App
 This is a simple shopping app in Kotlin.
 
+| Login Screen | Product List Screen | Product Detail Screen |
+| ------------- | ------------- | ------------- |
+| <img width="250" src="images/login_screen.jpg"> | <img width="250" src="images/product_list_screen.jpg"> | <img width="250" src="images/product_detail_screen.jpg"> |
+
 ## Features
 - User Login
 - User Logout
