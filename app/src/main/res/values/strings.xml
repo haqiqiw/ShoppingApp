@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="product_id">Product Id</string>
+    <string name="product_title">Product Title</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_category">Product Category</string>
+    <string name="product_description">Product Description</string>
+    <string name="edit">Edit</string>
+    <string name="loading">Loading ...</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
