@@ -8,8 +8,7 @@ This is a simple shopping app in Kotlin.
 - Product Detail
 
 ## API Documentation
-This app uses Fake Store API for REST API.
-Documentation: https://fakestoreapi.com/docs
+This app uses Fake Store API for REST API ([Documentation](https://fakestoreapi.com/docs)).
 
 ## Tech stack & libraries
 - Architecture
